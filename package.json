@@ -1,0 +1,12 @@
+{
+  "name": "th-vue-basics-accordion",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+  }
+}
