@@ -61,4 +61,4 @@ filterList = function(event) {...}
 
 - [Treehouse Vue.js Basics Course](https://teamtreehouse.com/library/vuejs-basics)
 - [VueJS.org: v-show vs v-if](https://vuejs.org/v2/guide/conditional.html#v-if-vs-v-show)
-- [Javascript.info: Event Object[(https://javascript.info/introduction-browser-events#event-object)
+- [Javascript.info: Event Object](https://javascript.info/introduction-browser-events#event-object)
